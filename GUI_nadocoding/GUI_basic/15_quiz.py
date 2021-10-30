@@ -5,8 +5,8 @@ root = Tk()
 root.title("제목 없음 - Windows 메모장") 
 root.geometry("640x480") # 가로 * 세로 
 
-frame = Frame(root)
-frame.pack()
+# frame = Frame(root)
+# frame.pack()
 
 # 스크롤바
 scrollbar = Scrollbar(root)
